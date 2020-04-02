@@ -4,7 +4,8 @@
   "description": "A clone of the classic Breakout game",
   "main": "index.js",
   "scripts": {
-    "start": "parcel serve index.html"
+    "start": "parcel serve index.html",
+    "build": "parcel build index.html"
   },
   "author": "Joan Rieu <joan@joanrieu.com>",
   "license": "MIT",
