@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel serve index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --public-url https://joanrieu.github.io/breach/dist/"
   },
   "author": "Joan Rieu <joan@joanrieu.com>",
   "license": "MIT",
